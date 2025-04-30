@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftLauncher", "MinecraftLauncher.csproj", "{ECD8FA98-DA4B-4F4B-8675-06332879AC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD8FA98-DA4B-4F4B-8675-06332879AC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD8FA98-DA4B-4F4B-8675-06332879AC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD8FA98-DA4B-4F4B-8675-06332879AC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD8FA98-DA4B-4F4B-8675-06332879AC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68FA1B52-0EC4-48F3-B2D9-DC88EB487120}
+	EndGlobalSection
+EndGlobal
